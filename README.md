@@ -1,6 +1,6 @@
 # 📘 Daily DSA
 
-Welcome to **Daily DSA** – your consistent journey to mastering Data Structures and Algorithms through daily practice! 💻✨
+Welcome to **Daily DSA** – my consistent journey to mastering Data Structures and Algorithms through daily practice! 💻✨
 
 ## 📌 About
 
@@ -51,8 +51,5 @@ The problems are solved using **Java** (or your language of choice), with well-s
 | Day 29-32 | Dynamic Programming       |
 | Day 33    | Greedy Algorithms         |
 | Day 34    | Miscellaneous             |
-
----
-
-## 🚀 Folder Structure
+-----------------------------------------
 
